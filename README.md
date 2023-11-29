@@ -1,3 +1,4 @@
 # html-Basics
-This is a my First Git Project 
-author - shubham
+
+This is a my First Git Project
+author - shubham kumar singh
